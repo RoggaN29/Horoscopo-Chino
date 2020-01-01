@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Horoscopo Chino</string>
+    <string name="name">Nombre(s)</string>
+    <string name="lastname">Apellidos</string>
+    <string name="buttonBirthdate">Selecciona tu fecha de nacimiento</string>
+    <string name="consultar">Consultar</string>
+    <string name="saludo">¡Hola!</string>
+    <string name="labelEdad">Tu edad es:</string>
+    <string name="labelSigno">y tu signo del zodiaco chino es:</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese horoscope</string>
+    <string name="consultar">consult</string>
+    <string name="lastname">Lastname</string>
+    <string name="name">Name</string>
+    <string name="buttonBirthdate">Select your bithdate</string>
+    <string name="saludo">¡Hello!</string>
+    <string name="labelEdad">your age is :</string>
+    <string name="labelSigno">and your Chinese zodiac sign is:</string>
+</resources>
